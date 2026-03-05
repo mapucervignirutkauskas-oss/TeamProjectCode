@@ -1,4 +1,4 @@
-from project import Course, Student, University
+from GroupProjectPY import Course, Student, University
 import unittest
 class Testproject(unittest.TestCase):
     #course class
